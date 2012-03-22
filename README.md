@@ -52,7 +52,7 @@ Markdown can be written in a basic text editor (don't use Word) like Notepad on 
 
 ##Around the web
 
-* [StackOverflow.com] uses Markdow for posts and comments. Here's their [help guide](http://stackoverflow.com/editing-help).
+* [StackOverflow.com](http://stackoverflow.com/) uses Markdow for posts and comments. Here's their [help guide](http://stackoverflow.com/editing-help).
 * [github.com](https://github.com) uses a custom blend "GitHub Flavored Markdown" for their discussions. Here's their [help guide](http://github.github.com/github-flavored-markdown/).
 
 ##Oh yah..
