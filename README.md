@@ -24,12 +24,13 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/w
 - Both Mac and Windows users can use [Dingus](http://daringfireball.net/projects/markdown/dingus), which is a quick online tool (that means it works in your browser) made by Gruber. There are many of these tools so if you want to work in a browser, [find the one you like best](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&safe=active&sclient=psy-ab&q=online+markdown+editor+tool&oq=online+markdown+editor+tool&aq=f&aqi=q-n1&aql=&gs_sm=3&gs_upl=2271l2271l3l2666l1l1l0l0l0l0l207l207l2-1l1l0&gs_l=hp.3..33i38.2271l2271l3l2667l1l1l0l0l0l0l207l207l2-1l1l0.&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=d676aabec5c97b83&ion=1&biw=1155&bih=925). 
 - If you want to turn a website into Markdown, then its easy to do with [html2text](http://www.aaronsw.com/2002/html2text/)
 - I really like using [gist](https://gist.github.com/) by github for sharing and collaborating (called forking) on documents. [Here's a sample](https://gist.github.com/2152688) :P
-
-There are also lots of awful apps out there.. **stay away from**
-
 - (Mac) [ByWord](http://bywordapp.com/) - $9.99
-- (Mac) [Marked](http://itunes.apple.com/us/app/marked/id448925439?mt=12) - $3.99
 - Find another one for [Mac](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&safe=active&sclient=psy-ab&q=markdown+apps&oq=markdown+apps&aq=f&aqi=g1g-v1&aql=&gs_sm=3&gs_upl=2045l4743l0l4997l13l13l0l0l0l0l219l2381l0.11.2l13l0&gs_l=serp.3..0j0i15.2045l4743l0l4998l13l13l0l0l0l0l219l2381l0j11j2l13l0.&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=d676aabec5c97b83&ion=1&biw=1115&bih=893) or [PC]()
+
+There are poor apps out there too.. *stay away from*
+
+- (Mac) [Marked](http://itunes.apple.com/us/app/marked/id448925439?mt=12) - $3.99
+
 
 ##How do I write this Markdown stuff?
 When developers talk about how to write something, they call it syntax.  
@@ -73,4 +74,3 @@ Demand that your web projects be built with Markdown.
 
 - This page was built with [Markdown](http://daringfireball.net/projects/markdown/) and [Symphony](http://symphony-cms.com/) by [Kirk Strobeck](http://kirkstrobeck.com/)
 - Feel free to fork this page and edit, let's [make it better](https://github.com/kirkstrobeck/whatismarkdown).
-
