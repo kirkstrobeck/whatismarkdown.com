@@ -1,6 +1,6 @@
 #What is Markdown?
 
-###You may have heard about Markdown, if you have it's a good thing.
+##You may have heard about Markdown, if you have it's a good thing.
 **Markdown means that your website is being built correctly.. by professionals.**
 
 In the past you may have heard of [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG) (what you see is what you get) formatting. Think of Markdown like a simplified WYSIWYG.. simplified in the best way.
