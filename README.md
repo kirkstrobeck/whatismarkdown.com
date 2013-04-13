@@ -1,4 +1,4 @@
-#What is Markdown? ![Markdown symbol](https://raw.github.com/dcurtis/markdown-mark/master/png/66x40.png "Markdown symbol")
+#What is Markdown? ![Markdown symbol](https://raw.github.com/dcurtis/markdown-mark/master/png/48x30.png "Markdown symbol")
 
 ##You may have heard about Markdown, if you have it's a good thing.
 **Markdown means that your website is being built correctly.. by professionals.**
