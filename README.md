@@ -12,33 +12,41 @@ In the past, a WYSIWYG editing tool had too much control. Someone could unknowin
 
 Bottom line, people who edit content should focus on the words and the designer should make them pretty. Markdown does an excellent job at drawing a line in the sand, equipping us to all play nice together. The neat part is that when a designer pushes a new style to your website, it is consistently reflected across the whole chalupa, so they keep the design fresh and stay on top of browser caveats and features. (Dropshadow anyone?)
 
-Markdown is widely accepted by [developers and editors](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&safe=active&sclient=psy-ab&q=love+markdown&oq=love+markdown&aq=f&aqi=g-v1&aql=1&gs_l=hp.3..0i15.71l18176l0l18448l22l21l1l0l0l0l375l3026l10j7j0j4l23l0.pfwe.1.&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=841a85abab3be8d1&ion=1&biw=1155&bih=1017), so it's the best choice for implementing best practice. Nearly every popular content management solution supports Markdown, if not out-of-the-box, then with an easy-to-install extension.
+Markdown is widely accepted by deveopers and editors, so it's the best choice for implementing best practice. Nearly every popular content management solution supports Markdown, if not out-of-the-box, then with an easy-to-install extension.
 
-##Markdown tools (this is the good stuff)
+## Markdown for Writers (all Human Beings writing stuff)
 
 **Anyone who works with content should be using one of the following tools...**
 *Note: Everything about Markdown is free, paid stuff is totally optional and often worse.*
 
-####Editors
+####Editors for Writers
 
-- [Mou](http://mouapp.com/) for Mac (it's free and it's best), or 
-- [something like Mou](http://alternativeto.net/software/mou/?platform=windows) for Windows
-- (Mac) [ByWord](http://bywordapp.com/) - $9.99
-- [ReText](http://sourceforge.net/p/retext/home/ReText/) for Linux
-- Find another one for [Mac](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&safe=active&sclient=psy-ab&q=markdown+apps&oq=markdown+apps&aq=f&aqi=g1g-v1&aql=&gs_sm=3&gs_upl=2045l4743l0l4997l13l13l0l0l0l0l219l2381l0.11.2l13l0&gs_l=serp.3..0j0i15.2045l4743l0l4998l13l13l0l0l0l0l219l2381l0j11j2l13l0.&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=d676aabec5c97b83&ion=1&biw=1115&bih=893) or [PC]()
+
+-  (Mac) [Mou](http://mouapp.com/) for Mac (it's free and it's best), or 
+- (Mac+Iphone+Ipad) [ByWord](http://bywordapp.com/) - $9.99 - great tool too [recommanded by Leo Balbuta - ZenHabits](http://zenhabits.net/daily-writing-routine/)
+- (Mac+Ipad) [http://www.iawriter.com/](http://www.iawriter.com/) 
+- (Chrome/ChromeOS) [http://writeboxapps.com/](http://writeboxapps.com/) , a great extension for Chrome that works offline too
+- (Ubuntu) [Uberwriter](http://uberwriter.wolfvollprecht.de/). Not available yet for other great linux distributions. But as a free-as-in-freedom software, it is only for people willing to package it on their favorite distro.
+- (Android) [Draft](https://play.google.com/store/apps/details?id=com.mvilla.draft) it’s free and just works
+- (Windows) [MarkdownPad](http://markdownpad.com/) the free version is good ; consider [buying the Pro-version](https://markdownpad.com/buy.html) if you like it. You may not like the default dual-pane configuration you see on the screenshots, but don’t worry, MarkdownPad is very custumizable.
+
+
+
+
 
 ####Online Tools
 
-- Both Mac and Windows users can use [Dingus](http://daringfireball.net/projects/markdown/dingus), which is a quick online tool (that means it works in your browser) made by Gruber. There are many of these tools so if you want to work in a browser, [find the one you like best](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&safe=active&sclient=psy-ab&q=online+markdown+editor+tool&oq=online+markdown+editor+tool&aq=f&aqi=q-n1&aql=&gs_sm=3&gs_upl=2271l2271l3l2666l1l1l0l0l0l0l207l207l2-1l1l0&gs_l=hp.3..33i38.2271l2271l3l2667l1l1l0l0l0l0l207l207l2-1l1l0.&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=d676aabec5c97b83&ion=1&biw=1155&bih=925). 
-- If you want to turn a website into Markdown, then its easy to do with [html2text](http://www.aaronsw.com/2002/html2text/), or by using the [make.text bookmarklet](https://gist.github.com/dajare/5371948) (also see [Marky](http://markdownrules.com/))
-- I really like using [gist](https://gist.github.com/) by github for sharing and collaborating (called forking) on documents. [Here's a sample](https://gist.github.com/2152688) :P
+- (All browsers) [https://write-box.appspot.com/](https://write-box.appspot.com/) a simpler online version of WriteBox that should work on browsers others than Chrome
+- (All browsers) [Dingus](http://daringfireball.net/projects/markdown/dingus), which is another quick online tool made by Gruber. 
+- (Chrome, Firefox, Safari, and Thunderbird) [http://markdown-here.com/](http://markdown-here.com/) , a clever extension that allow you to use markdown in Thunderbird, Gmail, Hotmail, and Yahoo, and more places that don’t know anything about markdown yet.
+- on some great, useful websites like [Trello](https://trello.com/), [http://stackoverflow.com/](http://stackoverflow.com/) or [https://github.com/](https://github.com/), you don’t have to install anything, since they are already aware that Markdown is great to allow their users to format nicely their contributions, while keeping the interface clean and simple for the beginners. Our educated guess is that there will be more of them in the future :-)
 
-####Other
+- (Geeks) If you want to turn a website into Markdown, then its easy to do with [html2text](http://www.aaronsw.com/2002/html2text/), or by using the [make.text bookmarklet](https://gist.github.com/dajare/5371948) (also see [Marky](http://markdownrules.com/))
+- (Geeks) I really like using [gist](https://gist.github.com/) by github for sharing and collaborating (called forking) on documents. [Here's a sample](https://gist.github.com/2152688) :P
 
 - (Mac) [Marked](http://itunes.apple.com/us/app/marked/id448925439?mt=12) ($3.99) provides a preview of your (Multi)Markdown as you work in any text editor.
 
-
-##How do I write this Markdown stuff?
+#### How do I write this Markdown stuff?
 When developers talk about how to write something, they call it syntax.  
 To that end, here are related syntax documents sorted by ease of use.
 
@@ -47,17 +55,21 @@ To that end, here are related syntax documents sorted by ease of use.
 - [Daring Fireball](http://daringfireball.net/projects/markdown/syntax) - The original guide by the author
 - [Lots more..](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&gs_nf=1&tok=CMQN6SUMCLapgOH0-cg65w&cp=11&gs_id=2&xhr=t&q=markdown+syntax&pf=p&safe=active&output=search&sclient=psy-ab&oq=markdown+sy&aq=0p&aqi=p-p1g3&aql=&gs_sm=&gs_upl=&gs_l=&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=d676aabec5c97b83&biw=1115&bih=893&ion=1)
 
-##Huh?
+#### I still don't understand
+
+Markdown can be written in a basic text editor (don't use Word) like Notepad on Windows. Macs don't have a basic built-in text editor, but that's what the tools I mentioned above are for. You can write or copy and paste, but it's an easy way to write text that can quickly be turned into HTML. The web is written in HTML, so think of it like quick-start web developing for content editors. When you write in Markdown, you save the document with the file extension `.md`. More often than not, you'll never need to save a Markdown document, because you'll be using online tools.
+
+
+## Markdown for Developers
+
+
+#### Huh?
 
 [Markdown](http://daringfireball.net/projects/markdown/) was made by [John Gruber](http://daringfireball.net/), and he says..
 
 > Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
 
-##I still don't understand
-
-Markdown can be written in a basic text editor (don't use Word) like Notepad on Windows. Macs don't have a basic built-in text editor, but that's what the tools I mentioned above are for. You can write or copy and paste, but it's an easy way to write text that can quickly be turned into HTML. The web is written in HTML, so think of it like quick-start web developing for content editors. When you write in Markdown, you save the document with the file extension `.md`. More often than not, you'll never need to save a Markdown document, because you'll be using online tools.
-
-##Around the web
+## Around the web
 
 * [StackOverflow.com](http://stackoverflow.com/) uses Markdown for posts and comments. Here's their [help guide](http://stackoverflow.com/editing-help).
 * [github.com](https://github.com) uses a custom blend "GitHub Flavored Markdown" for their discussions. Here's their [help guide](http://github.github.com/github-flavored-markdown/).
