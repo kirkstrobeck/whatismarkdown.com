@@ -8,8 +8,8 @@ Technically, this repository is a fork of the website http://whatismarkdown.com/
 
 The original article has been renamed as what-is-markdown.md
 
-Thanks to  kirk strobeck.com for having understood like me and before me that there was a big need of pedagogy around that little markdown thing
-
+Thanks to  kirk strobeck for having understood like me and before me that this markdown thing has a lot of potential...
+but need a lot of pedagogy too.
 
 
 ## What I have added 
@@ -20,7 +20,7 @@ Thanks to  kirk strobeck.com for having understood like me and before me that th
    [media/markdown_in_action.png]
 
 
-## What I plan to add
+## What I dream to see on markdown.mobi
 
    Wisdom is to have dreams that are big enough not to lose sight when we pursue them! 
   -- Oscar Wilde
@@ -40,9 +40,29 @@ Non-technical stuff I want to add
 - then of course have them translated in english
 - but also on each language on the earth. Everyone wanting to volunteer will be more than welcome
 
-(dreaming big) 
-- I would like that a an agile standard comitee, something like the [What Working Group](http://www.whatwg.org/) that would look at all those XXX-flavored markdown and alternative-to-markdown-syntaxes things 
+
+## dreaming big
+
+I would like that a an agile standard comitee, something like the [What Working Group](http://www.whatwg.org/) that would look at all those XXX-flavored markdown and alternative-to-markdown-syntaxes things 
 and put together ONE coherent markdown 2.0 open format, that would not forget that the Markdown 1.0 essential feature is simplicity.
 
+
+## Everykind of contribution is welcome
+
+What you can do :
+
+- proof-read my crappy english
+- help me to write the markdown.js file that will make it easy to implement standard markdown shortcuts
+- help me to document (in english) the best practices of existing editors
+- write more articles on markdown
+- translate existing articles
+- tell me where I can find CSS stylesheets for markdown, available under a free-as-in-speech license
+- tell me what you don't like about markdown
+- a little "thank you" is welcomed too :-)
+
+
+If you know how to use github, you can do this by forking the repository, making your own changes, sending pull requests, opening issues ....
+
+Or you can just send me an email at jmfayard+markdown@gmail.com
 
 
