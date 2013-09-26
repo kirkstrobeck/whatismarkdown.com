@@ -29,7 +29,7 @@ but need a lot of pedagogy too.
 Technical stuff I want to add
 
 - document best practices from existing markdown editors. Everybody would benefit from that
-- In particular, create a markdown.js file which will make it trivial to implement very useful shortcuts like the [shortcuts from ByWord](http://bywordapp.com/extras/index.html)
+- In particular, create a markdown.js file which will make it trivial to implement very useful shortcuts like the [shortcuts from ByWord, Word, Google Apps and others](https://docs.google.com/spreadsheet/ccc?key=0AokjkJJJ_Ai2dDJqaTQwVGJQWjZHMWwybXlTcXlONXc&usp=sharing)
 - In particular, have a collection of ready-to-use CSS themes. For example  [ByWord.css (if they realease it on a free as in speech licence)](http://bywordapp.com/extras/index.html)
 
 
