@@ -5,7 +5,7 @@
 - License : CreativeCommons By-SA
 - Last update : 2013-08-22    
 
-![Markdown in action]()
+![Markdown in action](https://raw.github.com/internaciulo/markdown.mobi/master/media/write-better.png)
 
 
 ## If you want to write, why don't you simply use MS Word like everybody else ? 
