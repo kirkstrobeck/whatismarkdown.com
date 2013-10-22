@@ -138,7 +138,6 @@ I personally use and like :
 - on some great, useful websites like [Trello](https://trello.com/), [http://stackoverflow.com/](http://stackoverflow.com/) or [https://github.com/](https://github.com/), you don't have to install anything, since they are already aware that Markdown is great to allow their users to format nicely their contributions, while keeping the interface clean and simple for the beginners. My educated guess is that there will be more of them in the future :-)
 
 I didn't test these apps personally but they seem great too :
-%tu te fous de ma gueule: I didn't tested
 
 - [http://markdownpad.com/](http://markdownpad.com/) for Windows
 - [http://www.iawriter.com/](http://www.iawriter.com/) for Mac and iPad
