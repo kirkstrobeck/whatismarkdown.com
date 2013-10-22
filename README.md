@@ -1,7 +1,9 @@
 markdown.mobi
 =============
 
-`Markdown` is an open format that you can use everywhere where Plain Text/UTF-8 is allowed ; it is easy to read, easy to write, easy to convert into the most important standards that we currently have, that is HTML and CSS (also it works well RTF)
+`Markdown` is an open format that you can use everywhere where Plain Text/UTF-8 is allowed ; it is easy to read, easy to write, easy to convert into the most important standards that we currently have, that is HTML and CSS (byword and markdown-here show that it works also well RTF). 
+
+In a nutshell, it is what you need if you want to write for screens, not for a printer (use `latex`or `Word` in those cases)
 
 I think that `Markdown` is better explained in action, so here is a screenshot of how the `ByWord` text editor looks like when I edit my `write-better.md` article 
 
@@ -28,7 +30,7 @@ but need a lot of pedagogy too.
 - an article of mine that tries to explain [why Writers would benefit from markdown | write-better.md](https://github.com/internaciulo/markdown.mobi/blob/master/write-better.md)
 
 ## TODO (a lot)
-   *Wisdom is to have dreams that are big enough not to lose sight when we pursue them! * -- Oscar Wilde
+   *Wisdom is to have dreams that are big enough not to lose sight when we pursue them!* -- Oscar Wilde
 
 I'm currently struggling to launch `markdown.mobi`. 
 
