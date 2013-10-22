@@ -38,10 +38,11 @@ It will be a multilingual wiki (running on `dokuwiki`) so that non-technical use
     
 In an ideal world, I would like to add this on `markdown.mobi`
 
-- document best practices from existing markdown editors. Everybody would benefit from that
+- markdown editors especially on the web can be improved. There is a list  here of [markdown editors that can be embedded on the web](http://linuxfr.org/suivi/tester-d-autres-editeurs-de-texte-que-markitup) 
+- hence document best practices from existing markdown editors. 
 - In particular, create a markdown.js file which will make it trivial to implement very useful shortcuts like the [shortcuts from ByWord, Word, Google Apps and others](https://docs.google.com/spreadsheet/ccc?key=0AokjkJJJ_Ai2dDJqaTQwVGJQWjZHMWwybXlTcXlONXc&usp=sharing)
 - In particular, have a collection of ready-to-use CSS themes. For example  [ByWord.css (if they realease it on a free as in speech licence)](http://bywordapp.com/extras/index.html)
-- convince existing text editor to support markdown. For example, I have just opened a feature request for Google Chrome and Google Chrome OS : https://github.com/GoogleChrome/text-app/issues/170
+- tell other text editor that supporting well markdown is not hard but very useful. For example, I have just opened a feature request for Google Chrome and Google Chrome OS : https://github.com/GoogleChrome/text-app/issues/170
 - add more articles explaining what `Markdown` means for different class of users who need markdown but don't know it yer
 - I will probably write in french first since thinking in my mother tongue is much easier
 - then of course have someone help me to translate them into english
