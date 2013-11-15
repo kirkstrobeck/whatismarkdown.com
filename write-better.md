@@ -1,7 +1,7 @@
 						WRITE BETTER WITH A
 	MINIMALIST DISTRACTION-FREE FULL-SCREEN MARKDOWN EDITOR
 	
-- Author : jmfayard+markdown@gmail.com
+- Author : http://about.me/jmfayard
 - License : CreativeCommons By-SA
 - Last update : 2013-08-22    
 
@@ -171,10 +171,4 @@ That being said, there are actually useful ways to help markdown to slowly come 
 - then you could spread the good advice, like I attempt to do in this article. Translations of this article are more than welcome for example. Wikipedia is important for people curious about a subject they don't yet master. The [current markdown entry - 2 august 2013](http://en.wikipedia.org/wiki/Markdown) badly needs some rewriting, that would be another option.
 - if you own a website where your users discuss between themselves, you could follow the good example of Trello, Stackoverflow, Github. There are plenty of developer tools that will help you to do this
 - there are a lot of forums on the web where people who are passionate about a topic  produce great content... but for example in that crappy, obsolete BBCode thing. The thing is that people are used to it, so that the forum owner just can't move right away from bbcode to markdown. If you are a developper, a tool that would convert from markdown to bbcode would be really useful to ease the migration.
-
-
-## Questions, comments ?
-
-Feel free to contact me [via LinkedIN](http://bit.ly/jmfayard-linkedin)
-
 
