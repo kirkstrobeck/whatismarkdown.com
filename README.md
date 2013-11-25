@@ -55,7 +55,7 @@ To that end, here are related syntax documents sorted by ease of use.
 
 ##I still don't understand
 
-Markdown can be written in a basic text editor (don't use Word) like Notepad on Windows. Macs don't have a basic built-in text editor, but that's what the tools I mentioned above are for. You can write or copy and paste, but it's an easy way to write text that can quickly be turned into HTML. The web is written in HTML, so think of it like quick-start web developing for content editors. When you write in Markdown, you save the document with the file extension `.md`. More often than not, you'll never need to save a Markdown document, because you'll be using online tools.
+Markdown can be written in a basic text editor (don't use Word) like Notepad on Windows. Macs have TextEdit, which defaults to styled text but can be switched to pure plain-text editing. in addition, there are the tools mentioned above. You can write or copy and paste, but it's an easy way to write text that can quickly be turned into HTML. The web is written in HTML, so think of it like quick-start web developing for content editors. When you write in Markdown, you save the document with the file extension `.md`. More often than not, you'll never need to save a Markdown document, because you'll be using online tools.
 
 ##Around the web
 
