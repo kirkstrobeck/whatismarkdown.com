@@ -21,6 +21,7 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/w
 
 ####Editors
 
+- [Dillinger](http://dillinger.io/) 100% Free, online markdown editor and it supports syncing with Dropbox, Google Drive and Github. [100% Open Source](https://github.com/joemccann/dillinger) as well. 
 - [Mou](http://mouapp.com/) for Mac (it's free and it's best), or 
 - [something like Mou](http://alternativeto.net/software/mou/?platform=windows) for Windows
 - (Mac) [ByWord](http://bywordapp.com/) - $9.99
