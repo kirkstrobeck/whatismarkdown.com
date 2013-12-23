@@ -1,0 +1,32 @@
+- b
+  - address-cards
+  - contact-cards
+  - contacts
+- d
+  - locations
+  - location-markers
+  - places
+- f
+  - pages
+  - documents
+  - files
+- s
+  - batch-edits
+  - edit-all
+  - multiple-edits
+  - editing
+- w
+  - simplicity
+  - circle
+  - ring
+- x
+  - puzzle
+  - puzzle-pieces
+  - together
+- t
+  - gears
+  - settings
+  - integrated
+- u
+  - tool
+  - screwdriver

@@ -1,0 +1,85 @@
+#What is Markdown?
+
+##You may have heard about Markdown, if you have it’s a good thing.
+
+**It means that your website is being built correctly .. by professionals.**
+
+In the past you may have heard of [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG) (what you see is what you get) formatting. Think of Markdown like a simplified WYSIWYG .. simplified in the best way.
+
+When web designers and developers approach a project, they build [styles](http://www.w3schools.com/css/) into the project.
+Those styles dictate how basic elements, like headers and links, will display.
+
+In the past, a WYSIWYG editing tool had too much control. Someone could unknowingly add a new style to the design (like red italic bold headers) without meaning to. More often than not, it was a purposeful addition, but that leads to a [*race to the bottom*](http://en.wikipedia.org/wiki/Race_to_the_bottom), so style treatment became bigger, bolder, and harshly inconsistent. This makes designers sad :( because their carefully crafted theme is tossed by the wayside, like stuff .. old stuff.
+
+Bottom line, people who edit content should focus on the content and the designer should focus on design. Markdown does an excellent job drawing a line in the sand, equipping us to effectively cooperate. The neat part is that when a designer pushes a new style to your website, it is consistently reflected across the whole project, so they keep the design fresh and stay on top of browser caveats and features. (Rounded corners anyone?)
+
+Markdown is widely accepted by [developers and editors](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#aq=f&aqi=g-v1&aql=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=5857bd6f0836430d&hl=en&q=love+markdown&safe=active), so it’s the *best choice* for implementing *best practice*. Nearly every popular content management solution supports Markdown, if not out-of-the-box, then with an easy-to-install extension.
+
+## Markdown tools (this is the good stuff)
+
+**Anyone who works with content should be using one of the following tools...**
+
+*Note: Everything about Markdown is free, paid stuff is optional and often worse.*
+
+#### Editors
+
+- [Mou](http://mouapp.com/) for Mac (it’s free and it’s best), or
+- [something like Mou](http://alternativeto.net/software/mou/?platform=windows) for Windows
+- (Mac) [ByWord](http://bywordapp.com/) - $9.99
+- [ReText](http://sourceforge.net/p/retext/home/ReText/) for Linux
+- Find another one for [Mac](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#bav=on.2,or.r_qf.&fp=5857bd6f0836430d&hl=en&q=markdown+apps+mac&safe=active) or [Windows](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#bav=on.2,or.r_qf.&fp=5857bd6f0836430d&hl=en&q=markdown+apps+windows&safe=active)
+
+#### Online Tools
+
+- Both Mac and Windows users can use [Dingus](http://daringfireball.net/projects/markdown/dingus), which is a quick online tool (that means it works in your browser) made by Markdown’s author. There are many of these tools so if you want to work in a browser, [find the one you like best](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#aq=f&aqi=q-n1&aql=&bav=on.2,or.r_qf.&cad=b&fp=5857bd6f0836430d&gs_sm=3&gs_upl=2271l2271l3l2666l1l1l0l0l0l0l207l207l2-1l1l0&hl=en&q=online+markdown+editor+tool&safe=active).
+- If you want to turn a website into Markdown, then its easy to do with [html2text](http://www.aaronsw.com/2002/html2text/), or by using the [make.text bookmarklet](https://gist.github.com/dajare/5371948) (also see [Marky](http://markdownrules.com/))
+- I really like using [gist](https://gist.github.com/) by github for sharing and collaborating (called forking) documents. [Here’s a sample](https://gist.github.com/2152688) :P
+- [Stypi](https://code.stypi.com/) is another free and helpful online collaboration tool as it offers realtime editing for groups.
+
+#### Other
+
+- (Mac) [Marked](http://itunes.apple.com/us/app/marked/id448925439?mt=12) ($3.99) provides a preview of your (Multi)Markdown as you work in any text editor.
+
+## How do I write this Markdown stuff?
+
+When developers talk about how to write something, they call it *syntax*. To that end, here are related syntax documents sorted by ease of use.
+
+- [Wikipedia](http://en.wikipedia.org/wiki/Markdown) - History and formatting guide
+- [SquareSpace](http://www.squarespace.com/display/ShowHelp?section=Markdown) - Formatting guide
+- [Daring Fireball](http://daringfireball.net/projects/markdown/syntax) - The original guide by the author
+- [Lots more..](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&gs_nf=1&tok=CMQN6SUMCLapgOH0-cg65w&cp=11&gs_id=2&xhr=t&q=markdown+syntax&pf=p&safe=active&output=search&sclient=psy-ab&oq=markdown+sy&aq=0p&aqi=p-p1g3&aql=&gs_sm=&gs_upl=&gs_l=&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=d676aabec5c97b83&biw=1115&bih=893&ion=1)
+
+## Huh?
+
+[Markdown](http://daringfireball.net/projects/markdown/) was made by [John Gruber](http://daringfireball.net/), and he says..
+
+> Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
+
+## I still don’t understand
+
+Markdown can be written in a basic text editor (don’t use Word) like Notepad on Windows. Macs don’t have a basic built-in text editor, but that’s what the tools mentioned above are for. You can write or copy and paste, but it’s an easy way to write text that can quickly be turned into HTML. The web is written in HTML, so think of it like quick-start web developing for content editors. When you write in Markdown, you save the document with the file extension `.md`. More often than not, you’ll never need to save a Markdown document, because you’ll be using your company’s content management system.
+
+## Around the web
+
+* [StackOverflow.com](http://stackoverflow.com/) uses Markdown for posts and comments. Here’s their [help guide](http://stackoverflow.com/editing-help).
+* [github.com](https://github.com) uses a custom blend *GitHub Flavored Markdown* for their discussions. Here’s their [help guide](http://github.github.com/github-flavored-markdown/).
+* [Dustin Curtis](http://dcurt.is/the-markdown-mark) said *"I’m making something that uses Markdown, and there’s currently no great universal symbol for identifying Markdown support. [So I created one](https://github.com/dcurtis/markdown-mark)."* That’s the icon up above:  ![Markdown symbol](https://raw.github.com/dcurtis/markdown-mark/master/png/32x20-solid.png "Markdown symbol")
+
+## Oh yah...
+
+- I really want [Markdown extra](http://michelf.com/projects/php-markdown/extra/) to be more prevalent. It is the future of Markdown. If you can develop using Markdown Extra, please do. If possible, upgrade your Markdown installs to Markdown Extra. And don’t forget about [Smartypants](http://daringfireball.net/projects/smartypants/) if you want Markdown Extra to got the extra mile (also [available for PHP](http://michelf.ca/projects/php-smartypants/)).
+- [Textile](http://textile.sitemonks.com/) is great, and was probably used most by [37 Signals](http://productblog.37signals.com/products/2007/07/use-textile-in-.html), but it lost the battle in the end. It did have out-of-the-box support for tables, though, which was quite nice.
+> Textile is a lightweight markup language originally developed by Dean Allen and billed as a "humane web text generator". Textile converts its marked-up text input to valid, well-formed XHTML and also inserts character entity references for apostrophes, opening and closing single and double quotation marks, ellipses and em dashes
+
+  - [Wikipedia](http://en.wikipedia.org/wiki/Textile_markup_language) - History and formatting guide
+  - [Textism](http://www.textism.com/tools/textile/) - Dingus for Textile
+  - [Hobix](http://redcloth.org/hobix.com/textile/) - Formatting guide
+
+## Take action!
+
+Demand that your web projects be built with Markdown.
+
+---
+
+- This page was built with [Markdown](http://daringfireball.net/projects/markdown/) and [Symphony](http://symphony-cms.com/) by [Kirk Strobeck](http://kirkstrobeck.com/)
+- Feel free to fork this page and edit, let’s [make it better](https://github.com/kirkstrobeck/whatismarkdown/blob/master/README.md).
