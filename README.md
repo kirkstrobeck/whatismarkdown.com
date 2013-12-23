@@ -14,6 +14,16 @@ Bottom line, people who edit content should focus on the words and the designer 
 
 Markdown is widely accepted by [developers and editors](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&safe=active&sclient=psy-ab&q=love+markdown&oq=love+markdown&aq=f&aqi=g-v1&aql=1&gs_l=hp.3..0i15.71l18176l0l18448l22l21l1l0l0l0l375l3026l10j7j0j4l23l0.pfwe.1.&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=841a85abab3be8d1&ion=1&biw=1155&bih=1017), so it's the best choice for implementing best practice. Nearly every popular content management solution supports Markdown, if not out-of-the-box, then with an easy-to-install extension.
 
+## Other Benefits
+
+Even when use outside of websites, Markdown has some surprisingly good side-effects. Because Markdown gives you only minimal control over how your writing *looks*, it forces you to focus on the *content* rather than futzing around with fonts and margins and colors. For a certain kind of writer, this provides a huge productivity boost. This is why a number of professional writing tools like [Scrivener](http://www.literatureandlatte.com/scrivener.php), [Draft](https://draftin.com/) and [Byword](http://bywordapp.com/), all provide Markdown support.
+
+Beause Markdown is just plain text, it opens up a number of other advantages:
+
+* It takes up very little space and is highly compressible;
+* It is relatively easy for computers to search and index (really fast), as demonstrated by the [nvAlt](http://brettterpstra.com/projects/nvalt/) app.
+* It has very few conversion issues when going between operating systems. It works great on Windows, Mac, Linux, iOS, and Android.
+
 ##Markdown tools (this is the good stuff)
 
 **Anyone who works with content should be using one of the following tools...**
@@ -24,6 +34,7 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/w
 - [Dillinger](http://dillinger.io/) 100% Free, online markdown editor and it supports syncing with Dropbox, Google Drive and Github. [100% Open Source](https://github.com/joemccann/dillinger) as well. 
 - [Mou](http://mouapp.com/) for Mac (it's free and it's best), or 
 - [something like Mou](http://alternativeto.net/software/mou/?platform=windows) for Windows
+- [nvAlt](http://brettterpstra.com/projects/nvalt/) for Mac (also free, with amazing search features)
 - (Mac) [ByWord](http://bywordapp.com/) - $9.99
 - [ReText](http://sourceforge.net/p/retext/home/ReText/) for Linux
 - Find another one for [Mac](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&safe=active&sclient=psy-ab&q=markdown+apps&oq=markdown+apps&aq=f&aqi=g1g-v1&aql=&gs_sm=3&gs_upl=2045l4743l0l4997l13l13l0l0l0l0l219l2381l0.11.2l13l0&gs_l=serp.3..0j0i15.2045l4743l0l4998l13l13l0l0l0l0l219l2381l0j11j2l13l0.&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=d676aabec5c97b83&ion=1&biw=1115&bih=893) or [PC]()
@@ -33,6 +44,7 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/w
 - Both Mac and Windows users can use [Dingus](http://daringfireball.net/projects/markdown/dingus), which is a quick online tool (that means it works in your browser) made by Gruber. There are many of these tools so if you want to work in a browser, [find the one you like best](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&safe=active&sclient=psy-ab&q=online+markdown+editor+tool&oq=online+markdown+editor+tool&aq=f&aqi=q-n1&aql=&gs_sm=3&gs_upl=2271l2271l3l2666l1l1l0l0l0l0l207l207l2-1l1l0&gs_l=hp.3..33i38.2271l2271l3l2667l1l1l0l0l0l0l207l207l2-1l1l0.&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=d676aabec5c97b83&ion=1&biw=1155&bih=925). 
 - If you want to turn a website into Markdown, then its easy to do with [html2text](http://www.aaronsw.com/2002/html2text/), or by using the [make.text bookmarklet](https://gist.github.com/dajare/5371948) (also see [Marky](http://markdownrules.com/))
 - I really like using [gist](https://gist.github.com/) by github for sharing and collaborating (called forking) on documents. [Here's a sample](https://gist.github.com/2152688) :P
+- [Draft](https://draftin.com/) Is a comprehensive online writing environment that uses Markdown.
 
 ####Other
 
