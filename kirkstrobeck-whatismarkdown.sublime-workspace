@@ -1,0 +1,836 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"table-",
+				"table-cell"
+			],
+			[
+				"ove",
+				"overflow"
+			],
+			[
+				"root",
+				"rootScope	\\$rootScope"
+			],
+			[
+				"rout",
+				"routeParams	\\$routeParams"
+			],
+			[
+				"contr",
+				"controllers"
+			],
+			[
+				"a",
+				"AppCtrl"
+			],
+			[
+				"super",
+				"superheroCtrl"
+			],
+			[
+				"loa",
+				"loadMoreTweets"
+			],
+			[
+				"rever",
+				"reverseFilter"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"app",
+				"apply	apply-templates"
+			],
+			[
+				"inarra",
+				"in_array"
+			],
+			[
+				"htm",
+				"htmlLang"
+			],
+			[
+				"html",
+				"html5	html5"
+			],
+			[
+				"numb",
+				"numberOfDaysInRange"
+			],
+			[
+				"numberO",
+				"numberOfRecoveriesAfterADrop"
+			],
+			[
+				"dateF",
+				"dateFormatted"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"array_c",
+				"array_count_values"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 73.0,
+		"selected_items":
+		[
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"angula",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 141.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/venue.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/dashboard-2.less",
+		"/Users/kirk/git/kirkstrobeck/whatismarkdown/.git/config",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/global/text/infowrap/glyphs.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/.git/COMMIT_EDITMSG",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/global/variables.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/card.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/global/colors.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/components.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/global/global.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/global/inherit.less",
+		"/Users/kirk/git/kirkstrobeck/kris-test/bower.json",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/global/tags.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/container.less",
+		"/Users/kirk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/navbar.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/page-wrap-detail.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/filter-bar.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/avatar.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/branch/nathan.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/modal.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/search.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/design.coffee.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/forms.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/growl.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/marketing-mode.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/timeline.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/user.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/wrap-title.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/wrap.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/marketing/homepage.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/vendor/breadcrumbs.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/core/follow.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/index.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/branch/malino.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/vendor/bootstrap-progressbar.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/global/text/paragraphs.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/standalone/pricing-upgrade.html",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/us/pricing.html",
+		"/Users/kirk/git/bizbuilt/infowrap.com/compatibility/proxy-ip.html",
+		"/Users/kirk/git/bizbuilt/infowrap.com/compatibility/proxy.html",
+		"/Users/kirk/git/bizbuilt/infowrap.com/package.json",
+		"/Users/kirk/git/bizbuilt/infowrap.com/.gitignore",
+		"/Users/kirk/git/bizbuilt/infowrap.com/bower.json",
+		"/Users/kirk/Desktop/index.html",
+		"/Users/kirk/git/kirkstrobeck/yellowfrisbee.github.io/.gitignore",
+		"/Users/kirk/git/kirkstrobeck/yellowfrisbee.github.io/Gruntfile.js",
+		"/Users/kirk/Desktop/Needs/Images/1/Photo Credit: <a href=\"http:::www.flickr.com:photo",
+		"/Users/kirk/git/bizbuilt/infowrap.com-static/.git/COMMIT_EDITMSG",
+		"/Users/kirk/git/bizbuilt/infowrap.com-static/app/en/less/core/vertical.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com-static/bower.json",
+		"/Users/kirk/git/bizbuilt/infowrap.com-static/.git/MERGE_MSG",
+		"/Users/kirk/git/bizbuilt/infowrap.com-static/.git/TAG_EDITMSG",
+		"/Users/kirk/git/kirkstrobeck/exif/index.php",
+		"/Users/kirk/git/kirkstrobeck/exif-test/index.html",
+		"/Users/kirk/git/trimeragroup/trimeragroup.com/info.php",
+		"/Users/kirk/git/trimeragroup/trimeragroup.com/manifest/config.php",
+		"/Users/kirk/git/trimeragroup/trimeragroup.com/.git/TAG_EDITMSG",
+		"/Users/kirk/git/trimeragroup/trimeragroup.com/.git/MERGE_MSG",
+		"/Users/kirk/git/trimeragroup/trimeragroup.com/trimeragroup-trimeragroup-com.sublime-project",
+		"/Users/kirk/Library/Caches/Cleanup At Startup/Transmit/A6B90380-7704-47A4-8843-E8EF08A80107/config.php",
+		"/Users/kirk/git/trimeragroup/trimeragroup.com/.gitignore",
+		"/Users/kirk/git/kirkstrobeck/btcmonitor/mtgox.php",
+		"/Users/kirk/git/bizbuilt/infowrap.com-static/app/en/workspace/utilities/templates/vertical.xsl",
+		"/Users/kirk/git/bizbuilt/infowrap.com-static/app/en/workspace/utilities/master.xsl",
+		"/Users/kirk/Desktop/angular-tutorial/index.html",
+		"/Users/kirk/Desktop/angular-tutorial/js/site.js",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/egghead/app/index.html",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/egghead/app/main.coffee",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/egghead/app/app.html",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/egghead/app/main.js",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/egghead/.bowerrc",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/egghead/app/zippy.html",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/egghead/app/avengers.json",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/egghead/test/unit/main.coffee",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/egghead/test/unit/main.js",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/kirkstrobeck-learn-angular.sublime-project",
+		"/Users/kirk/git/kirkstrobeck/btcmonitor/common.coffee",
+		"/Users/kirk/git/kirkstrobeck/btcmonitor/index.php",
+		"/Users/kirk/git/bizbuilt/infowrap.com-static/.bowerrc",
+		"/Users/kirk/git/bizbuilt/infowrap.com-static/app/en/less/index.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com-static/app/en/less/core/common.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com-static/.gitignore",
+		"/Users/kirk/git/bizbuilt/infowrap.com-static/app/en/less/global/colors.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com-static/app/en/coffee/common.coffee",
+		"/Users/kirk/git/bizbuilt/infowrap.com-static/app/en/less/global/text/infowrap/glyphs.less",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/egghead/index.html",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/egghead/mainSpec.coffee",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/egghead/test-main.coffee",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/egghead/karma.conf.js",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/mosher/index.html",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/index.html",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/main.coffee",
+		"/Users/kirk/git/kirkstrobeck/learn-angular/main.js",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/styles/filepicker/filepicker.less",
+		"/Users/kirk/git/bizbuilt/infowrap.com/app/views/partials/global/actions.old.html",
+		"/Users/kirk/Launch/ideas.txt",
+		"/Users/kirk/Infowrap/_sublime/infowrap-styles.sublime-project",
+		"/Users/kirk/git/bizbuilt/infowrap.com-static/bizbuilt-infowrap.com-static.sublime-project",
+		"/Users/kirk/Infowrap/_sublime/infowrap-static.sublime-project",
+		"/Users/kirk/git/bizbuilt/email-templates/template/jade/variables.jade",
+		"/Users/kirk/git/bizbuilt/email-templates/template/jade/footer.jade",
+		"/Users/kirk/git/bizbuilt/email-templates/template/jade/head.jade",
+		"/Users/kirk/git/bizbuilt/email-templates/template/styl/common.styl",
+		"/Users/kirk/git/bizbuilt/email-templates/Gruntfile.coffee",
+		"/Users/kirk/git/bizbuilt/email-templates/digest-notification/src/index.jade",
+		"/Users/kirk/git/bizbuilt/email-templates/template/styl/variables.styl",
+		"/Users/kirk/git/bizbuilt/email-templates/template/styl/skinny.styl",
+		"/Users/kirk/git/bizbuilt/email-templates/digest-notification/src/index.old.jade",
+		"/Users/kirk/git/bizbuilt/email-templates/template/styl/common.old.styl",
+		"/Users/kirk/git/bizbuilt/email-templates/template/styl/skinny.old.styl",
+		"/Users/kirk/git/bizbuilt/email-templates/template/css/skinny.min.css",
+		"/Users/kirk/git/bizbuilt/email-templates/template/css/common.css",
+		"/Users/kirk/git/bizbuilt/email-templates/digest-notification/debug/index.html",
+		"/Users/kirk/git/bizbuilt/email-templates/digest-notification/dist/index.html",
+		"/Users/kirk/git/bizbuilt/email-templates/bizbuilt-email-templates.sublime-project",
+		"/Users/kirk/git/BizBuilt/email-templates/BizBuilt-email-templates.sublime-project",
+		"/Users/kirk/git/BizBuilt/email-templates/digest-notification/src/index.jade",
+		"/Users/kirk/git/cobitcoin/cobitcoin/app.js",
+		"/Users/kirk/git/cobitcoin/cobitcoin/app.coffee",
+		"/Users/kirk/git/cobitcoin/cobitcoin/package.json",
+		"/Users/kirk/git/cobitcoin/cobitcoin/cobitcoin-cobitcoin.sublime-project",
+		"/Users/kirk/git/cobitcoin/cobitcoin/Procfile",
+		"/Users/kirk/git/cobitcoin/cobitcoin/bower.json",
+		"/Users/kirk/git/BizBuilt/email-templates/.git/TAG_EDITMSG",
+		"/Users/kirk/git/BizBuilt/email-templates/digest-notification/orig.html",
+		"/Users/kirk/git/BizBuilt/email-templates/template/css/common.css",
+		"/Users/kirk/git/BizBuilt/email-templates/digest-notification/footer.jade"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"",
+			"/Users/kirk/git/bizbuilt/email-templates/node_modules",
+			"/Users/kirk/git/bizbuilt/email-templates/node_modules/grunt-contrib-stylus",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n",
+			"wrap",
+			"red",
+			"overflow",
+			".global-border-bottom-",
+			"global-border-bottom",
+			"shadow",
+			"border",
+			"theme",
+			"contac",
+			"markdown",
+			"text-deco",
+			"@media (max-width: 320px + @global-page-side-margins) {",
+			"@media (max-width: 640px + @global-page-side-margins) {",
+			"@media (max-width: 1258px + @global-page-side-margins) {",
+			"@media (max-width: 960px + @global-page-side-margins) {",
+			"@page-side-margins",
+			"coff",
+			"@media (max-width:640px + @page-side-margins) {",
+			"@media (max-width: 640px) {",
+			"@media (max-width: 320px) {",
+			"@media (max-width:320px) {",
+			"@media (max-width:960px) {",
+			"@media (max-width: 960px) {",
+			"@media (max-width:1258px) {",
+			"@media (max-width: 1258px) {",
+			"@media (max-width: 640px) {",
+			"@media (max-width:640px) {",
+			"@media",
+			".less",
+			"bower",
+			"\\",
+			"10px",
+			"shadow",
+			".3",
+			"shado",
+			"cta",
+			".btn-prima",
+			"disabl",
+			".btn",
+			"disabled",
+			"class=\"card",
+			"value-of",
+			"edge",
+			"<i class=\"",
+			"<div class=\"feature\">\n                    <xsl:choose>\n                      <xsl:when test=\"icon-font/item/@handle = 'font-awesome'\">\n                        <i class=\"fa {icon-name/@handle}\"></i>\n                      </xsl:when>\n                      <xsl:otherwise>\n                        <xsl:attribute name=\"data-icon\">\n                          <xsl:value-of select=\"icon-name/@handle\" disable-output-escaping=\"yes\" />\n                        </xsl:attribute>\n                      </xsl:otherwise>\n                    </xsl:choose>\n                    <div class=\"title\">\n                      <xsl:apply-templates select=\"headline\" mode=\"widow-fix\" />\n                    </div>\n                    <div class=\"contents\">\n                      <xsl:apply-templates select=\"description\" mode=\"widow-fix\" />\n                    </div>\n                  </div>",
+			"<i class",
+			"otherwi",
+			"script",
+			".js",
+			"info",
+			"root",
+			"staging",
+			"&it;",
+			"&lt;",
+			"&gt;",
+			" ",
+			">",
+			"<",
+			"text",
+			"'",
+			"character",
+			"name",
+			"{$root}",
+			"http://",
+			"root",
+			"i,",
+			"i {",
+			"fa-",
+			"fa",
+			"/en/",
+			"@fa-font-path",
+			"font-aw",
+			"shad",
+			".scene3",
+			"meta",
+			"http:",
+			"Juno",
+			"data-",
+			"scroll",
+			"privacy",
+			"what others see",
+			"BizBuilt",
+			"3",
+			"-",
+			"-t",
+			"r-p",
+			"p-c",
+			"-",
+			"style",
+			"-",
+			"aligncenter",
+			"textcolor",
+			"fontfamily",
+			"-",
+			"g-s",
+			"r-p",
+			"r-t",
+			"p-c",
+			"-",
+			"l-o",
+			"g-s",
+			"r-p",
+			"wrap-container",
+			"\\n",
+			"echo",
+			"\"/*\\n\\",
+			"echo",
+			"footer",
+			"font-",
+			"media",
+			"'",
+			"poster",
+			":",
+			"border-botto",
+			"border-bott",
+			"alt",
+			"#",
+			";",
+			":",
+			"cardWidthContents",
+			"cobitcoin",
+			"cobi",
+			"use(",
+			"set(",
+			";",
+			"var ",
+			"welcome to "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@media (max-width: (320px + @global-page-side-margins)) {",
+			"@media (max-width: (640px + @global-page-side-margins)) {",
+			"@media (max-width: (1258px + @global-page-side-margins)) {",
+			"@media (max-width: (960px + @global-page-side-margins)) {",
+			"@global-page-side-margins",
+			"@media (max-width: 640px + @page-side-margins) {",
+			"@media (max-width: 320px + @page-side-margins) {",
+			"@media (max-width: 960px + @page-side-margins) {",
+			"@media (max-width: 1258px + @page-side-margins) {",
+			"@media (max-width: 640px + @page-side-margins) {",
+			"@media (max-width:640px + @page-side-margins) {",
+			"8px",
+			"fontFamily"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "kirkstrobeck-whatismarkdown.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gly",
+				"less/global/text/infowrap/glyphs.less"
+			],
+			[
+				"tag",
+				"less/global/tags.less"
+			],
+			[
+				"ven",
+				"less/core/venue.less"
+			],
+			[
+				"colo",
+				"less/global/colors.less"
+			],
+			[
+				"info",
+				"less/global/text/infowrap/font-face.less"
+			],
+			[
+				"card",
+				"less/core/card.less"
+			],
+			[
+				"com",
+				"less/core/components.less"
+			],
+			[
+				"cont",
+				"less/core/container.less"
+			],
+			[
+				"var",
+				"less/global/variables.less"
+			],
+			[
+				"comp",
+				"less/core/components.less"
+			],
+			[
+				"nav",
+				"less/core/navbar.less"
+			],
+			[
+				"con",
+				"less/core/container.less"
+			],
+			[
+				"co",
+				"less/core/components.less"
+			],
+			[
+				"pricing",
+				"app/standalone/pricing-upgrade.html.tpl"
+			],
+			[
+				"glo",
+				"less/global/global.less"
+			],
+			[
+				"glob",
+				"less/global/global.less"
+			],
+			[
+				"olo",
+				"less/global/colors.less"
+			],
+			[
+				"ver",
+				"app/en/workspace/utilities/templates/vertical.xsl"
+			],
+			[
+				"vert",
+				"app/en/workspace/utilities/templates/vertical.xsl"
+			],
+			[
+				"mast",
+				"app/en/workspace/utilities/master.xsl"
+			],
+			[
+				"vertica",
+				"app/en/workspace/utilities/templates/vertical.xsl"
+			],
+			[
+				"verti",
+				"app/en/workspace/utilities/templates/vertical.xsl"
+			],
+			[
+				"maste",
+				"app/en/workspace/utilities/master.xsl"
+			],
+			[
+				"color",
+				"app/en/less/global/colors.less"
+			],
+			[
+				"comm",
+				"app/en/less/core/common.less"
+			],
+			[
+				"tags",
+				"less/global/tags.less"
+			],
+			[
+				"actio",
+				"app/views/partials/global/actions.html"
+			],
+			[
+				"grunt",
+				"Gruntfile.coffee"
+			],
+			[
+				"ind",
+				"digest-notification/src/index.jade"
+			],
+			[
+				"head",
+				"template/jade/head.jade"
+			],
+			[
+				"user-c",
+				"app/views/partials/wrap/user-creator-project-save.html"
+			],
+			[
+				"mas",
+				"app/en/workspace/utilities/master.xsl"
+			],
+			[
+				"commo",
+				"app/coffee/common.coffee"
+			],
+			[
+				"vertic",
+				"app/less/core/vertical.less"
+			],
+			[
+				"marke",
+				"less/core/marketing-mode.less"
+			],
+			[
+				"brea",
+				"less/vendor/breadcrumbs.less"
+			],
+			[
+				"font",
+				"app/less/global/text/fonts.less"
+			],
+			[
+				"para",
+				"app/less/global/text/paragraphs.less"
+			],
+			[
+				"infowrap.le",
+				"app/less/global/text/infowrap/font-face.less"
+			],
+			[
+				"gyl",
+				"app/less/global/text/infowrap/glyphs.less"
+			],
+			[
+				"ma",
+				"app/workspace/utilities/master.xsl"
+			],
+			[
+				"404",
+				"app/workspace/pages/404.xsl"
+			],
+			[
+				"mix",
+				"app/less/global/mixins.less"
+			],
+			[
+				"mixi",
+				"app/less/global/mixins.less"
+			],
+			[
+				"modal",
+				"app/less/core/modal-overrides.less"
+			],
+			[
+				"moda",
+				"app/less/core/modal-overrides.less"
+			],
+			[
+				"inde",
+				"app/index.php"
+			],
+			[
+				"coff",
+				"app/coffee/common.coffee"
+			],
+			[
+				"compon",
+				"less/core/components.less"
+			],
+			[
+				"form",
+				"less/core/forms.less"
+			],
+			[
+				"index",
+				"app/index.html.tpl"
+			],
+			[
+				"compo",
+				"less/core/components.less"
+			],
+			[
+				"noti",
+				"less/core/notifications.less"
+			],
+			[
+				"not",
+				"less/core/notifications.less"
+			],
+			[
+				"inh",
+				"less/global/inherit.less"
+			],
+			[
+				"mod",
+				"less/core/modal.less"
+			],
+			[
+				"wra",
+				"less/core/wrap.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
