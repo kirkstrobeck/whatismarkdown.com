@@ -59,7 +59,7 @@ Markdown can be written in a basic text editor (don't use Word) like TextEdit fo
 
 * [StackOverflow.com](http://stackoverflow.com/) uses Markdown for posts and comments. Here's their [help guide](http://stackoverflow.com/editing-help).
 * [github.com](https://github.com) uses a custom blend "GitHub Flavored Markdown" for their discussions. Here's their [help guide](http://github.github.com/github-flavored-markdown/).
-* [Dustin Curtis](http://dcurt.is/the-markdown-mark) said *"I'm making something that uses Markdown, and there's currently no great universal symbol for identifying Markdown support. [So I created one](https://github.com/dcurtis/markdown-mark)."* That's the icon up above:  ![Markdown symbol](https://raw.github.com/dcurtis/markdown-mark/master/png/32x20-solid.png "Markdown symbol")
+* [Dustin Curtis](http://dcurt.is/the-markdown-mark) said *"I'm making something that uses Markdown, and there's currently no great universal symbol for identifying Markdown support. [So I created one](https://github.com/dcurtis/markdown-mark)."* That's the icon up above:  ![Markdown symbol](img/markdown.png "Markdown symbol")
 
 ###Oh yah...
 

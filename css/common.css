@@ -33,6 +33,9 @@ h2 {
 .footer a {
   text-decoration: underline;
 }
+.markdown img {
+  width: 32px;
+}
 .social {
   margin: 30px auto 20px auto;
 }
