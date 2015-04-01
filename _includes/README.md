@@ -36,6 +36,7 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/#
 - If you want to turn a website into Markdown, then its easy to do with [html2text](http://www.aaronsw.com/2002/html2text/), or by using the [make.text bookmarklet](https://gist.github.com/dajare/5371948) (also see [Marky](http://markdownrules.com/))
 - I really like using [gist](https://gist.github.com/) by github for sharing and collaborating (called forking) on documents. [Here's a sample](https://gist.github.com/2152688) :P
 - [Draft](https://draftin.com/) is a comprehensive online writing environment that uses Markdown. However, it requires you to create an account and is a bit confusing.
+- [StackEdit](https://stackedit.io) is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
 
 ###How do I write this Markdown stuff?
 When developers talk about how to write something, they call it syntax. To that end, here are related syntax documents sorted by ease of use.
