@@ -1,6 +1,6 @@
-#What is Markdown?
+# What is Markdown?
 
-###You may have heard about Markdown, if you have it's a good thing.
+### You may have heard about Markdown, if you have it's a good thing.
 **Markdown means that your website is being built correctly.. by professionals.**
 
 You may have heard of [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG) (what you see is what you get) formatting. Think of Markdown like a simplified WYSIWYG ... simplified in the best way.
@@ -13,7 +13,7 @@ Bottom line, people who edit content should focus on the words and the designer 
 
 Markdown is widely accepted by [developers and editors](https://www.google.com/#q=love+markdown), so it's the best choice for implementing best practice. Nearly every popular content management solution supports Markdown, if not out-of-the-box, then with an easy-to-install extension.
 
-###Markdown tools (this is the good stuff)
+### Markdown tools (this is the good stuff)
 
 **Anyone who works with content should be using one of the following tools...**
 *Note: Everything about Markdown is free, paid stuff is totally optional and often worse.*
