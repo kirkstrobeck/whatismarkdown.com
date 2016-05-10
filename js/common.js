@@ -10,9 +10,8 @@ $(document).ready(function() {
     smartLists: true,
     smartypants: false
   });
-  var text = marked($('.markdown').html());
-  console.log(text);
-  // $('.markdown').html(text);
+
+  $('.markdown').html(marked($('.markdown').html()));
   
   return $('.markdown-container').fadeIn({
     start: function() {
