@@ -65,7 +65,8 @@ Markdown can be written in a basic text editor (don't use Word) like TextEdit fo
 
 - I really want [Markdown extra](http://michelf.com/projects/php-markdown/extra/) to be more prevalent. It is the future of Markdown. If you can develop using Markdown Extra, please do. If possible, upgrade your Markdown installs to Markdown Extra. And don't forget about [Smartypants](http://daringfireball.net/projects/smartypants/) if you want Markdown Extra to got the extra mile (also [available for PHP](http://michelf.ca/projects/php-smartypants/)).
 - [Textile](http://textile.sitemonks.com/) is great, and was probably used most by [37 Signals](http://productblog.37signals.com/products/2007/07/use-textile-in-.html), but it lost the battle in the end.
-It did have out-of-the-box support for tables, though, which was quite nice.> Textile is a lightweight markup language originally developed by Dean Allen and billed as a "humane web text generator". Textile converts its marked-up text input to valid, well-formed XHTML and also inserts character entity references for apostrophes, opening and closing single and double quotation marks, ellipses and em dashes
+It did have out-of-the-box support for tables, though, which was quite nice.
+> Textile is a lightweight markup language originally developed by Dean Allen and billed as a "humane web text generator". Textile converts its marked-up text input to valid, well-formed XHTML and also inserts character entity references for apostrophes, opening and closing single and double quotation marks, ellipses and em dashes
 
 	- [Wikipedia](http://en.wikipedia.org/wiki/Textile_markup_language) - History and formatting guide
 	- [Textism](http://www.textism.com/tools/textile/) - Dingus for Textile
