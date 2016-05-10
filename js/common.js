@@ -12,9 +12,8 @@
       smartypants: false
     });
 
-    var text = marked($('.markdown').html());
-    $('body').html(text);
-
+    $('.mardown').marked($('.markdown').html());
+    
     return $('.markdown-container').fadeIn({
       start: function() {
         return $("h1").fitText();
