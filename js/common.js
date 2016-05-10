@@ -11,8 +11,8 @@
       smartLists: true,
       smartypants: false
     });
-
-    $('.markdown').html(marked($('.markdown').html()));
+    var text = marked($('.markdown').html());
+    $('.markdown').html(text);
     
     return $('.markdown-container').fadeIn({
       start: function() {
