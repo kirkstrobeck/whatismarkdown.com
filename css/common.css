@@ -1,5 +1,5 @@
-blockquote {
-  border: none;
+blockquote > p {
+ color: rgb(153, 153, 153) ;
 }
 h1,
 h2,

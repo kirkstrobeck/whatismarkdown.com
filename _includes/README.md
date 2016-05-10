@@ -1,6 +1,6 @@
-#What is Markdown?
+# What is Markdown?
 
-###You may have heard about Markdown, if you have it's a good thing.
+### You may have heard about Markdown, if you have it's a good thing.
 **Markdown means that your website is being built correctly.. by professionals.**
 
 You may have heard of [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG) (what you see is what you get) formatting. Think of Markdown like a simplified WYSIWYG ... simplified in the best way.
@@ -13,12 +13,12 @@ Bottom line, people who edit content should focus on the words and the designer 
 
 Markdown is widely accepted by [developers and editors](https://www.google.com/#q=love+markdown), so it's the best choice for implementing best practice. Nearly every popular content management solution supports Markdown, if not out-of-the-box, then with an easy-to-install extension.
 
-###Markdown tools (this is the good stuff)
+### Markdown tools (this is the good stuff)
 
 **Anyone who works with content should be using one of the following tools...**
 *Note: Everything about Markdown is free, paid stuff is totally optional and often worse.*
 
-####Desktop apps
+#### Desktop apps
 
 - [Mou](http://mouapp.com/) for Mac (it's free and it's best)
 - [something like Mou](http://alternativeto.net/software/mou/?platform=windows) for Windows
@@ -28,7 +28,7 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/#
 - or find [another one](https://www.google.com/#q=markdown+apps)
 - [Marked](http://itunes.apple.com/us/app/marked/id448925439?mt=12) ($3.99) provides a preview of your (Multi)Markdown as you work in any text editor.
 
-####Online tools (that means it works in your browser)
+#### Online tools (that means it works in your browser)
 
 - [Dillinger](http://dillinger.io/) free online markdown editor that supports syncing with Dropbox, Google Drive and Github.
 - [Dingus](http://daringfireball.net/projects/markdown/dingus)
@@ -37,7 +37,7 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/#
 - I really like using [gist](https://gist.github.com/) by github for sharing and collaborating (called forking) on documents. [Here's a sample](https://gist.github.com/2152688) :P
 - [Draft](https://draftin.com/) is a comprehensive online writing environment that uses Markdown. However, it requires you to create an account and is a bit confusing.
 
-###How do I write this Markdown stuff?
+### How do I write this Markdown stuff?
 When developers talk about how to write something, they call it syntax. To that end, here are related syntax documents sorted by ease of use.
 
 - [Wikipedia](http://en.wikipedia.org/wiki/Markdown) - History and formatting guide
@@ -45,34 +45,33 @@ When developers talk about how to write something, they call it syntax. To that 
 - [Daring Fireball](http://daringfireball.net/projects/markdown/syntax) - The original guide by the author
 - [Lots more..](https://www.google.com/#q=markdown+syntax)
 
-###Huh?
+### Huh?
 
-[Markdown](http://daringfireball.net/projects/markdown/) was made by [John Gruber](http://daringfireball.net/), and he says..
-
+[Markdown](http://daringfireball.net/projects/markdown/) was made by [John Gruber](http://daringfireball.net/), and he says..  
 > Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
 
-###I still don't understand
+### I still don't understand
 
 Markdown can be written in a basic text editor (don't use Word) like TextEdit for Mac (save as plain-text) or Notepad on Windows. It's an easy way to write text that easily translates into HTML. The web is written in HTML, so think of it like quick-start web development tool for content editors. When you write in Markdown, you save the document with the file extension `.md`. More often than not, you'll never need to save a Markdown document, because you'll be using an online tool.
 
-###Around the web
+### Around the web
 
 * [StackOverflow.com](http://stackoverflow.com/) uses Markdown for posts and comments. Here's their [help guide](http://stackoverflow.com/editing-help).
 * [github.com](https://github.com) uses a custom blend "GitHub Flavored Markdown" for their discussions. Here's their [help guide](http://github.github.com/github-flavored-markdown/).
 * [Dustin Curtis](http://dcurt.is/the-markdown-mark) said *"I'm making something that uses Markdown, and there's currently no great universal symbol for identifying Markdown support. [So I created one](https://github.com/dcurtis/markdown-mark)."* That's the icon up above:  ![Markdown symbol](http://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png "Markdown symbol")
 
-###Oh yah...
+### Oh yah...
 
 - I really want [Markdown extra](http://michelf.com/projects/php-markdown/extra/) to be more prevalent. It is the future of Markdown. If you can develop using Markdown Extra, please do. If possible, upgrade your Markdown installs to Markdown Extra. And don't forget about [Smartypants](http://daringfireball.net/projects/smartypants/) if you want Markdown Extra to got the extra mile (also [available for PHP](http://michelf.ca/projects/php-smartypants/)).
 - [Textile](http://textile.sitemonks.com/) is great, and was probably used most by [37 Signals](http://productblog.37signals.com/products/2007/07/use-textile-in-.html), but it lost the battle in the end.
-It did have out-of-the-box support for tables, though, which was quite nice.
->Textile is a lightweight markup language originally developed by Dean Allen and billed as a "humane web text generator". Textile converts its marked-up text input to valid, well-formed XHTML and also inserts character entity references for apostrophes, opening and closing single and double quotation marks, ellipses and em dashes
+It did have out-of-the-box support for tables, though, which was quite nice.  
+> Textile is a lightweight markup language originally developed by Dean Allen and billed as a "humane web text generator". Textile converts its marked-up text input to valid, well-formed XHTML and also inserts character entity references for apostrophes, opening and closing single and double quotation marks, ellipses and em dashes
 
 	- [Wikipedia](http://en.wikipedia.org/wiki/Textile_markup_language) - History and formatting guide
 	- [Textism](http://www.textism.com/tools/textile/) - Dingus for Textile
 	- [Hobix](http://redcloth.org/hobix.com/textile/) - Formatting guide
 
-###Take action!
+### Take action!
 Demand that your web projects be built with Markdown.
 
 ---
