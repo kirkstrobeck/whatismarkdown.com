@@ -11,7 +11,7 @@
       smartLists: true,
       smartypants: false
     });
-    var text = marked($('.markdown').html());
+    var text = marked($('.markdown').text());
     console.log(text);
     $('.markdown').html(text);
     
