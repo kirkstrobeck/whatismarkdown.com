@@ -12,6 +12,7 @@
       smartypants: false
     });
     var text = marked($('.markdown').html());
+    console.log(text);
     $('.markdown').html(text);
     
     return $('.markdown-container').fadeIn({
