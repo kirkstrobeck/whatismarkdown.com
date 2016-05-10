@@ -11,7 +11,7 @@ $(document).ready(function() {
     smartypants: false
   });
 
-  $('.markdown').html(marked($('.markdown').html()));
+  $('.markdown').html(marked($('.markdown').text()));
   
   return $('.markdown-container').fadeIn({
     start: function() {
