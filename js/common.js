@@ -4,7 +4,7 @@
     var converter;
 
     converter = new Markdown.Converter();
-    $('.markdown').html(converter.makeHtml($('.markdown').html()));
+    $('.markdown').html(converter.makeHtml($('.markdown').text()));
     return $('.markdown-container').fadeIn({
       start: function() {
         return $("h1").fitText();
