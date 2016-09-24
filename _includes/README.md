@@ -23,7 +23,7 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/#
 - [Mou](http://mouapp.com/) for Mac (it's free and it's best)
 - [something like Mou](http://alternativeto.net/software/mou/?platform=windows) for Windows
 - [nvAlt](http://brettterpstra.com/projects/nvalt/) for Mac (also free, with amazing search features)
-- (Mac) [ByWord](http://bywordapp.com/) - $9.99
+- (Mac) [Byword](http://bywordapp.com/) - $9.99
 - [ReText](http://sourceforge.net/p/retext/home/ReText/) for Linux
 - or find [another one](https://www.google.com/#q=markdown+apps)
 - [Marked](http://itunes.apple.com/us/app/marked/id448925439?mt=12) ($3.99) provides a preview of your (Multi)Markdown as you work in any text editor.
