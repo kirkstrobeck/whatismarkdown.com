@@ -1,9 +1,9 @@
 #What is Markdown?
 
 ###You may have heard about Markdown, if you have it's a good thing.
-**Markdown means that your website is being built correctly.. by professionals.**
+**Markdown means that your website is being built correctly… by professionals.**
 
-You may have heard of [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG) (what you see is what you get) formatting. Think of Markdown like a simplified WYSIWYG ... simplified in the best way.
+You may have heard of [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG) (what you see is what you get) formatting. Think of Markdown like a simplified WYSIWYG… simplified in the best way.
 
 When web designers and developers approach a project, they build [styles](http://www.w3schools.com/css/) into the project. Those styles dictate how basic elements, like headers and links will appear.
 
@@ -15,7 +15,7 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/#
 
 ###Markdown tools (this is the good stuff)
 
-**Anyone who works with content should be using one of the following tools...**
+**Anyone who works with content should be using one of the following tools…**
 *Note: Everything about Markdown is free, paid stuff is totally optional and often worse.*
 
 ####Desktop apps
@@ -43,11 +43,11 @@ When developers talk about how to write something, they call it syntax. To that 
 - [Wikipedia](http://en.wikipedia.org/wiki/Markdown) - History and formatting guide
 - [SquareSpace](http://www.squarespace.com/display/ShowHelp?section=Markdown) - Formatting guide
 - [Daring Fireball](http://daringfireball.net/projects/markdown/syntax) - The original guide by the author
-- [Lots more..](https://www.google.com/#q=markdown+syntax)
+- [Lots more…](https://www.google.com/#q=markdown+syntax)
 
 ###Huh?
 
-[Markdown](http://daringfireball.net/projects/markdown/) was made by [John Gruber](http://daringfireball.net/), and he says..
+[Markdown](http://daringfireball.net/projects/markdown/) was made by [John Gruber](http://daringfireball.net/), and he says…
 
 > Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
 
@@ -61,7 +61,7 @@ Markdown can be written in a basic text editor (don't use Word) like TextEdit fo
 * [github.com](https://github.com) uses a custom blend "GitHub Flavored Markdown" for their discussions. Here's their [help guide](http://github.github.com/github-flavored-markdown/).
 * [Dustin Curtis](http://dcurt.is/the-markdown-mark) said *"I'm making something that uses Markdown, and there's currently no great universal symbol for identifying Markdown support. [So I created one](https://github.com/dcurtis/markdown-mark)."* That's the icon up above:  ![Markdown symbol](http://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png "Markdown symbol")
 
-###Oh yah...
+###Oh yah…
 
 - I really want [Markdown extra](http://michelf.com/projects/php-markdown/extra/) to be more prevalent. It is the future of Markdown. If you can develop using Markdown Extra, please do. If possible, upgrade your Markdown installs to Markdown Extra. And don't forget about [Smartypants](http://daringfireball.net/projects/smartypants/) if you want Markdown Extra to got the extra mile (also [available for PHP](http://michelf.ca/projects/php-smartypants/)).
 - [Textile](http://textile.sitemonks.com/) is great, and was probably used most by [37 Signals](http://productblog.37signals.com/products/2007/07/use-textile-in-.html), but it lost the battle in the end.
