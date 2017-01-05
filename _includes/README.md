@@ -27,7 +27,7 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/#
 - [ReText](http://sourceforge.net/p/retext/home/ReText/) for Linux
 - or find [another one](https://www.google.com/#q=markdown+apps)
 - [Marked](http://itunes.apple.com/us/app/marked/id448925439?mt=12) ($3.99) provides a preview of your (Multi)Markdown as you work in any text editor.
-- [Caret](https://caret.io) for Mac / Windows / Linux, premium app, ideal for profeesional Markdown writers, $25.
+- [Caret](https://caret.io) for Mac / Windows / Linux, premium app, ideal for profeesional Markdown writers, $15.
 
 ####Online tools (that means it works in your browser)
 
