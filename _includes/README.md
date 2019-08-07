@@ -45,6 +45,7 @@ When developers talk about how to write something, they call it syntax. To that 
 - [Wikipedia](http://en.wikipedia.org/wiki/Markdown) - History and formatting guide
 - [SquareSpace](http://www.squarespace.com/display/ShowHelp?section=Markdown) - Formatting guide
 - [Daring Fireball](http://daringfireball.net/projects/markdown/syntax) - The original guide by the author
+- [Typesetting Markdown](https://dave.autonoma.ca/blog/2019/05/22/typesetting-markdown-part-1) - Ecosystem for producing PDF files from Markdown sources
 - [Lots more…](https://www.google.com/#q=markdown+syntax)
 
 ###Huh?
